@@ -33,20 +33,12 @@ I’m not sure what this means, but it was left lying around: **_blorpy_**
 <p align="center">
     <img src="https://user-images.githubusercontent.com/117136072/232742934-b51212c0-cf04-4c1d-b48f-91fae823de8d.png">
 </p>
-
+<br><br>
 
 
 ## Vigenère Cipher
-•	**unable** to **encrypt** the **special character** like **{ }**
-•	**No special character** , **No 0 – 9** digit value
-•	ciphertext and plaintext are the **same length**
-•	Contain **upper** alphabetic **A – Z** ,  **lowercase** alphabetic **a – z**
-•**alphabet capital** in ciphertext is same in plaintext **A – Z**
-
-
-
-
-
-
-
-
+- **unable** to **encrypt** the **special character** like **{ }**
+- **No special character** , **No 0 – 9** digit value
+- ciphertext and plaintext are the **same length**
+- Contain **upper** alphabetic **A – Z** ,  **lowercase** alphabetic **a – z**
+- **alphabet capital** in ciphertext is same in plaintext **A – Z**
